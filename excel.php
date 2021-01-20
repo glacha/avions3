@@ -1,5 +1,5 @@
 <?php 
-// Include the database config file 
+// Include the database config file  
 //require_once 'dbConfig.php'; 
 
 // Database configuration 
